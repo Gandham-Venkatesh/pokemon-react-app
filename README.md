@@ -77,7 +77,7 @@ Visit: `http://localhost:5173` (if using Vite)
 
 Here's a preview of the app:
 
-![App Screenshot](src\assets\screenshot.png)  
+![App Screenshot](src/assets/screenshot.png)  
 > 
 
 
