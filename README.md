@@ -45,7 +45,7 @@ A fun and interactive React-based web app that lets you **explore multiple Poké
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/pokemon-app.git
+git clone https://github.com/Gandham-Venkatesh/pokemon-app.git
 cd pokemon-app
 ```
 
